@@ -1,0 +1,16 @@
+E:\PROJETOS Desenvolvimento\DOTNET\DigitalNew\bin\Debug\net5.0\DigitalNew.exe
+E:\PROJETOS Desenvolvimento\DOTNET\DigitalNew\bin\Debug\net5.0\DigitalNew.deps.json
+E:\PROJETOS Desenvolvimento\DOTNET\DigitalNew\bin\Debug\net5.0\DigitalNew.runtimeconfig.json
+E:\PROJETOS Desenvolvimento\DOTNET\DigitalNew\bin\Debug\net5.0\DigitalNew.runtimeconfig.dev.json
+E:\PROJETOS Desenvolvimento\DOTNET\DigitalNew\bin\Debug\net5.0\DigitalNew.dll
+E:\PROJETOS Desenvolvimento\DOTNET\DigitalNew\bin\Debug\net5.0\ref\DigitalNew.dll
+E:\PROJETOS Desenvolvimento\DOTNET\DigitalNew\bin\Debug\net5.0\DigitalNew.pdb
+E:\PROJETOS Desenvolvimento\DOTNET\DigitalNew\obj\Debug\net5.0\DigitalNew.csproj.AssemblyReference.cache
+E:\PROJETOS Desenvolvimento\DOTNET\DigitalNew\obj\Debug\net5.0\DigitalNew.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJETOS Desenvolvimento\DOTNET\DigitalNew\obj\Debug\net5.0\DigitalNew.AssemblyInfoInputs.cache
+E:\PROJETOS Desenvolvimento\DOTNET\DigitalNew\obj\Debug\net5.0\DigitalNew.AssemblyInfo.cs
+E:\PROJETOS Desenvolvimento\DOTNET\DigitalNew\obj\Debug\net5.0\DigitalNew.csproj.CoreCompileInputs.cache
+E:\PROJETOS Desenvolvimento\DOTNET\DigitalNew\obj\Debug\net5.0\DigitalNew.dll
+E:\PROJETOS Desenvolvimento\DOTNET\DigitalNew\obj\Debug\net5.0\ref\DigitalNew.dll
+E:\PROJETOS Desenvolvimento\DOTNET\DigitalNew\obj\Debug\net5.0\DigitalNew.pdb
+E:\PROJETOS Desenvolvimento\DOTNET\DigitalNew\obj\Debug\net5.0\DigitalNew.genruntimeconfig.cache
